@@ -1,0 +1,14 @@
+G:\Works\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.Tests.dll
+G:\Works\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.Tests.pdb
+G:\Works\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.exe
+G:\Works\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.pdb
+G:\Works\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.csprojResolveAssemblyReference.cache
+G:\Works\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.dll
+G:\Works\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.Tests.dll
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.Tests.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.exe
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\bin\Debug\QueueImplementation.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.csprojResolveAssemblyReference.cache
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.dll
+G:\Works\InfoServices\QueueImplementation\QueueImplementation.Tests\obj\Debug\QueueImplementation.Tests.pdb

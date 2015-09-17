@@ -1,0 +1,6 @@
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\bin\Debug\MenuImplementation.exe.config
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\bin\Debug\MenuImplementation.exe
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\bin\Debug\MenuImplementation.pdb
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\obj\Debug\MenuImplementation.csprojResolveAssemblyReference.cache
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\obj\Debug\MenuImplementation.exe
+G:\Works\InfoServices\MenuImplementation\MenuImplementation\obj\Debug\MenuImplementation.pdb

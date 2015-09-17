@@ -1,0 +1,12 @@
+G:\Works\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.exe.config
+G:\Works\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.csprojResolveAssemblyReference.cache
+G:\Works\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.exe
+G:\Works\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.pdb
+G:\Works\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.exe
+G:\Works\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.exe.config
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.exe
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.exe
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\bin\Debug\QueueImplementation.pdb
+G:\Works\InfoServices\QueueImplementation\QueueImplementation\obj\Debug\QueueImplementation.csprojResolveAssemblyReference.cache
