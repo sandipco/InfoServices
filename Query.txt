@@ -1,5 +1,5 @@
 select Convert(varchar(20),OrderDate,106) ORDERDATE,SUM(Quantity)
-From orders a
+From order a
 inner join  orderDetail b on a.OrderID=b.OrderID
 GROUP BY Convert(varchar(20),OrderDate,106)
 HAVING SUM(QUANTITY)>25
@@ -7,7 +7,7 @@ HAVING SUM(QUANTITY)>25
 
 
 select Convert(varchar(20),OrderDate,106) as Date,Count(*) as "No of Blank Orders"
-FROM orders a
+FROM order a
 left join orderDetail b
 on a.OrderID=b.OrderId
 WHERE b.OrderId IS NULL
